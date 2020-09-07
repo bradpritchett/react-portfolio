@@ -21,5 +21,7 @@ div#footer {
 }
 
 .jumbotron {
-    margin-bottom: 1px;
+	margin-bottom: 1px;
+	background-color: black;
+	color:white;
 }
